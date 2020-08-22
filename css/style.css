@@ -1825,8 +1825,9 @@ h3 {
 .footer .footer_top .footer_widget .instagram_feed .single_insta {
   width: 33.33%;
   float: left;
-  padding: 7.5px;
+  padding: 6px;
   overflow: hidden;
+
 }
 
 /* line 171, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_footer.scss */
@@ -1835,6 +1836,7 @@ h3 {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
+  height: 69%;
 }
 
 /* line 179, ../../Arafath/CL/December/231. Travel-02/HTML/scss/_footer.scss */
